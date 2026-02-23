@@ -1,0 +1,53 @@
+# Site settings
+title:          Leitmotiv Zine
+description:    "A Zine"
+baseurl:        ""
+url:
+
+# https://jekyllrb.com/docs/configuration/options/
+timezone: Europe/Berlin
+
+# Author
+#   This is the default author name displayed on all posts, can be overridden by setting a different `author: Your Name`
+#   in the frontmatter
+author:
+  name:         Leitmotif
+
+# Build settings
+markdown:       kramdown
+highlighter: rouge
+
+
+# Comments (Reply via email)
+comments: true
+comment_email: "" #enter an email address where you want comment emails to be sent
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     /assets/css/_sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+
+# Permalinks
+permalink:      /:title
+paginate:       5
+
+# Excludes
+exclude:
+  - README.md
+  - LICENSE.md
+
+# Disqus (Set to your disqus id)
+disqus:

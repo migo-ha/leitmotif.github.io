@@ -1,0 +1,27 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@use 'variables' as *;
+@use 'base' as *;
+@use 'code' as *;
+@use 'post' as *;
+@use 'layout' as *;
+@use 'pagination' as *;
+@use 'catalogue' as *;
+@use '404' as *;
+@use 'tags' as *;
+@use 'footnotes' as *;
+@use 'search' as *;
+
+.site-logo {
+  max-height: 55px !important;
+  width: auto !important;
+  object-fit: contain;
+}
+
+/* ensure nav doesn’t constrain it */
+header,
+nav {
+  align-items: center !important;
+}
