@@ -17,6 +17,8 @@ author:
 markdown:       kramdown
 highlighter: rouge
 
+# Paginate settings
+paginate_path: "/page:num/"
 
 # Comments (Reply via email)
 comments: true
