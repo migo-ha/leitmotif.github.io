@@ -13,4 +13,5 @@ group :jekyll_plugins do
   
   #dependeny for custom footnote plugin
   gem 'nokogiri' 
+
 end

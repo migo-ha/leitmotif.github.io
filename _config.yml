@@ -39,9 +39,6 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-remote-theme
-
-remote_theme: chibicode/tale
 
 # Permalinks
 permalink:      /:title
