@@ -25,5 +25,9 @@ jobs:
           git branch -D template || true
           git checkout -b template
           git rm -rf --cached --ignore-unmatch "_posts" "Gemfile.lock"
+
+ echo "DEBUG: checking .github folder"
+          ls -R .github || echo "No .github folder"
+          
           git commit -m "Update template branch"
           git push origin template -f
