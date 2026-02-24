@@ -1,7 +1,7 @@
 # Site settings
 title:          Leitmotiv Zine
 description:    "A Zine"
-baseurl:        ""
+baseurl:        "/leitmotif.github.io"
 url:
 
 # https://jekyllrb.com/docs/configuration/options/
