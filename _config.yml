@@ -1,8 +1,8 @@
 # Site settings
 title:          Leitmotiv Zine
 description:    "A Zine"
-baseurl:        "http://leitmotifzine.com/"
-url:
+baseurl:        ""
+url:            "http://leitmotifzine.com/"
 
 # https://jekyllrb.com/docs/configuration/options/
 timezone: Europe/Berlin
