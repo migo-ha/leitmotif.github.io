@@ -9,7 +9,7 @@ hidden: false
 ---
 
 #### I.
-Die europäische Szene wird oft vergleichend beschrieben. Sie gilt als weniger einflussreich, sichtbar oder prägend. Was diese Einordnung übersieht, ist, dass sich in Europa über Jahrzehnte im Hintergrund ein eigenes, unabhängiges System entwickelt hat: eine dichte Infrastruktur aus Räumen, Netzwerken und grenzüberschreitenden Strukturen, die es dieser Kultur ermöglichen, zu gedeihen.
+Die europäische Szene wird oft vergleichend beschrieben. Sie gilt als weniger einflussreich, sichtbar oder prägend. Was diese Einordnung übersieht, ist, dass sich in Europa über Jahrzehnte im Hintergrund ein eigenes System entwickelt hat: eine Infrastruktur aus Räumen, Netzwerken und grenzüberschreitenden Strukturen, die es dieser Kultur ermöglichen, zu gedeihen.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ Das Gespräch dient als primäres Format. Ziel ist die Untersuchung, Charakteris
 _Christopher Schmidt mit Giver. AZ Köln, 18. Oktober 2024. Foto von Pat Schmidt._
 
 #### III.
-Das erste Gespräch mit *Christopher Schmidt ([Giver](https://giverhc.bandcamp.com/), [Between Bodies](https://betweenbodies.bandcamp.com/))*, das am 20. April 2026 erscheint, ist keine Einführung in eine Szene, sondern ein konkretes Beispiel dafür, wie sie funktioniert. Dabei wird eine sehr spezifische Identität sichtbar, die von Kontinuität und Zusammenhalt statt Durchbruch und individueller Projektion geprägt ist.
+Das erste Gespräch mit *Christopher Schmidt ([Giver](https://giverhc.bandcamp.com/), [Between Bodies](https://betweenbodies.bandcamp.com/))*, das am 20. April 2026 erscheint, ist keine Einführung in eine Szene, sondern ein konkretes Beispiel dafür, wie sie funktioniert. Dabei wird eine sehr spezifische Identität sichtbar, die von Kontinuität und Zusammenhalt geprägt ist.
 
 *Leitmotif* ist bestrebt, diese Identität präziser zu beschreiben und sie mit ihren eigenen Bedingungen ernst zu nehmen. Dabei ist *Leitmotif* nicht als Periodikum zu verstehen, sondern erscheint dann, wenn Zeit und Umstände es erlauben.
 

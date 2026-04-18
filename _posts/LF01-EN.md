@@ -9,7 +9,7 @@ hidden: false
 ---
 
 #### I.
-The European scene is often described in comparative terms. It is seen as secondary in influence, visibility, and cultural output. What this framing ignores is that Europe has developed its own independent system over decades: a dense infrastructure of spaces, networks, and cross-border structures that has allowed this culture to thrive.
+The European scene is often described in comparative terms. It is seen as secondary in influence, visibility, and cultural output. What this framing ignores is that Europe has developed its own system over decades: a dense infrastructure of spaces, networks, and cross-border structures that has allowed this culture to thrive.
 
 <!--more-->
 
@@ -24,7 +24,7 @@ This publication is concerned with this internal logic---not just as mythology o
 _Christopher Schmidt with Giver. AZ Köln, Oktober 18, 2024. Photo by Pat Schmidt._
 
 #### III.
-The first conversation with *Christopher Schmidt ([Giver](https://giverhc.bandcamp.com/), [Between Bodies](https://betweenbodies.bandcamp.com/))*, published on April 20, 2026, is not an introduction to a scene, but a case in point of how it already functions. It reveals a specific identity shaped by continuity and solidarity rather than breakthrough and individual projection.
+The first conversation with *Christopher Schmidt ([Giver](https://giverhc.bandcamp.com/), [Between Bodies](https://betweenbodies.bandcamp.com/))*, published on April 20, 2026, is not an introduction to a scene, but a case in point of how it already functions. It reveals an identity shaped by continuity and solidarity.
 
 *Leitmotif* aims to describe this identity more precisely and take it seriously, together with its own conditions. In doing so, *Leitmotif* is not a periodical, but is realeased whenever time and circumstances allow.
 
