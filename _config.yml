@@ -2,7 +2,7 @@
 title:          Leitmotiv Zine
 description:    "A Zine"
 baseurl:        ""
-url:
+url:            "http://leitmotifzine.com/"
 
 # https://jekyllrb.com/docs/configuration/options/
 timezone: Europe/Berlin
@@ -17,6 +17,8 @@ author:
 markdown:       kramdown
 highlighter: rouge
 
+# Paginate settings
+paginate_path: "/page:num/"
 
 # Comments (Reply via email)
 comments: true
