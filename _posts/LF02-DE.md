@@ -1,16 +1,9 @@
 ---
 layout: post
-<<<<<<<< HEAD:_posts/LF02-DE.md
 title: "LF02: Christopher Schmidt (DE)"
 date: 20th April 2026
 tags: Deutsch
 comments: false
-========
-title: "LF01: Christopher Schmidt (Between Bodies, Giver)"
-date: 2026-02-24
-tags: Gespräche
-comments: true
->>>>>>>> 129667dfc546c9b4f5a8ca50a9f832e6ff16534e:_posts/2026-02-24-LF01.md
 excerpt_separator: <!--more-->
 hidden: true
 ---
@@ -33,13 +26,8 @@ Christopher kommt aus Paderborn, lebt in Köln und hat mehr als die Hälfte sein
 
 *Not Your Choice* war meine erste Hardcore Band und auch die erste, mit der wir aus Paderborn rausgekommen sind. Für mich ist Punk immer mit einem emanzipatorischen und politischen Gedanken verknüpft. Robin, der Sänger, war für mich damals die erste „linke Person“, die ich kennenlernen durfte. Wir haben uns das ein oder andere NPD-Plakat in Paderborn vorgenommen, das war für mich neu und aufregend. Robin hatte gute Kontakte zu *Intruder* und organisierte uns darüber die ersten Konzerte in Kassel und Ostdeutschland. Im Laufe der Zeit bin auch ich ins Songwriting eingestiegen. Nach dem Abitur sind dann alle weggezogen und die Band hat sich aufgelöst, doch die Zeit war rückblickend enorm prägend für mich. Die Band hat mir gezeigt, dass ich das weiter verfolgen möchte.
 
-<<<<<<<< HEAD:_posts/LF02-DE.md
 ![Christopher Schmidt mit Between Bodes](/assets/images/LF02/cs_sigel.jpg "Christopher Schmidt mit Between Bodes")
 _Christopher Schmidt mit Between Bodies. Colos-Saal Aschaffenburg, 4. Oktober 2025. Foto von Sebastian Igel._
-========
-![Christopher Schmidt mit Between Bodes]({{ "/assets/images/cs/cs_sigel.jpg" | relative_url }})
-_Christopher Schmidt mit Between Bodies. Aschaffenburg, 4. Oktober 2025. Foto von Sebastian Igel._
->>>>>>>> 129667dfc546c9b4f5a8ca50a9f832e6ff16534e:_posts/2026-02-24-LF01.md
 
 **LF: Du bist seit mehr als der Hälfte deines Lebens in Bands aktiv und widmest einen Großteil deiner Lebensenergie dem Schreiben, Texten, Proben, Gestalten, Reisen, Organisieren und Netzwerken. Du hast in einem Interview gesagt, dass “es für dich der einfachste Weg ist, deine Freunde zu sehen”. Es gibt einfachere Wege, in seinen Dreißigern seine Freunde zu sehen. Wieso macht das noch?**
 
@@ -60,11 +48,7 @@ Bei *Between Bodies* ist das anders, denn Nils wohnt in Paderborn, wo ich auch h
 
 *CS:* Für das neue *Between Bodies* Album habe ich diesmal viel vom Gesang aus geschrieben. Einige Songs haben wir im Proberaum gemeinsam noch einmal deutlich umgeschrieben, andere nicht. Auch Benni hat diesmal mit *"False Start"* einen ganzen Song beigesteuert und war sehr involviert was Gesangs-Arrangements, Synths, aber auch Drums und Strukturfragen angeht. Meistens ist es aber so, dass ich den Song-Entwurf erstelle, eine Demo mache und diese dann in den Proberaum bringe.
 
-<<<<<<<< HEAD:_posts/LF02-DE.md
 ![Between Bodes live beim Farewell Youth Fest 2025](/assets/images/LF02/bb_fwf_sigel.jpg "Christopher Schmidt mit Between Bodes")
-========
-![Between Bodes live beim Farewell Youth Fest 2025]({{ "/assets/images/cs/bb_fwf_sigel.jpg" | relative_url }})
->>>>>>>> 129667dfc546c9b4f5a8ca50a9f832e6ff16534e:_posts/2026-02-24-LF01.md
 _Between Bodies beim Farewell Youth Fest. Scheune Dresden, 21. Juni 2025. Foto von Sebastian Igel._
 
 **LF: Wie siehst du das Gleichnis, dass ein guter Song nur "empfangen” werden kann und man aktiv als Songwriter:in nicht viel beeinflussen kann?**
@@ -98,11 +82,7 @@ Für europäische Bands ist es auch weiterhin schwierig in den USA zu touren, au
 
 Ich denke auch, dass es in der Verantwortung der Bookingagenturen liegt, hart arbeitende europäische Bands mehr wertzuschätzen und sie nicht “nur” als Opener spielen zu lassen, wenn die Band selbst mehrere hundert Leute zieht. Meistens ist es doch so, dass drei Ami-Bands kommen und - egal wie groß die sind - die deutsche Band als Opener spielt. Ein gutes Beispiel dafür sind *[Shoreline](https://purenoise.bandcamp.com/album/is-this-the-low-point-or-the-moment-after)* aus Münster, die eine wirklich großartige europäische Punkband sind und gerade eine Tour mit *[Arm’s Length](https://purenoise.bandcamp.com/album/theres-a-whole-world-out-there)* gespielt haben. Es gibt da eine Schiefstellung in der Wahrnehmung und Wertschätzung, wenn gedacht wird: “die Band kommt aus Amerika, die muss mehr Wert sein”.
 
-<<<<<<<< HEAD:_posts/LF02-DE.md
 ![Between Bodes in Köln](/assets/images/LF02/bb_26_sigel.jpg "Christopher Schmidt mit Between Bodes")
-========
-![Between Bodes in Koeln]({{ "/assets/images/cs/bb_26_sigel.jpg" | relative_url }})
->>>>>>>> 129667dfc546c9b4f5a8ca50a9f832e6ff16534e:_posts/2026-02-24-LF01.md
 _Between Bodies in Köln. Januar 2026. Foto von Sebastian Igel._
 
 **LF: Man könnte auch die Netzwerke und Infrastruktur , die ja da sind, aktiv dafür nutzen, europäische Bands, die es aufgrund ihrer künstlerischen Leistung und Arbeit verdienen, entsprechend zu platzieren - auch als Vorbildwirkung für kommende Generationen, um zu zeigen: bleibt dran, dann geht das.**
@@ -116,9 +96,6 @@ _Between Bodies in Köln. Januar 2026. Foto von Sebastian Igel._
 Daneben wünsche ich mir mehr Interesse aus anderen Ländern. Wir haben letztes Jahr mit einigen US-Bands gespielt und da hatte niemand im Kopf, Kontakt zu Labels oder Bookern herzustellen oder eine Band für mehr als zwei Deutschland-Shows mitzunehmen. Ein guter Freund, der früher bei *[Punch](https://punchcrew.bandcamp.com/album/they-dont-have-to-believe)* gespielt hat, hat sich darüber immer lustig gemacht, dass die deutschen Bands es zwar oft versuchen, in den USA zu spielen, es aber selten schaffen.
 
 Ich glaube, es bräuchte mehr Offenheit, nicht nur Europa, sondern auch anderen Ländern gegenüber. Die haben es doch noch viel schwerer. Eine globale Szene, die aneinander interessiert ist – das sollte doch unser Anspruch sein.
-<<<<<<<< HEAD:_posts/LF02-DE.md
 
 ### Coda
 *[Between Bodies --- Water As A Metaphor/Waves](https://www.youtube.com/watch?v=gHmEqUl5u-U)*
-========
->>>>>>>> 129667dfc546c9b4f5a8ca50a9f832e6ff16534e:_posts/2026-02-24-LF01.md
