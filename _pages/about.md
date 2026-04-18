@@ -1,9 +1,26 @@
 ---
 layout: page
-title: "Absichtserklärung"
+title: "Leitmotif"
 permalink: /about/
 ---
 
-*Leitmotif* dokumentiert jene Personen, die unsere Kultur zu der machen, die sie ist. Uns interessieren die Menschen, die Orte schaffen, an denen wir so sein können, wie wir wirklich sind.
+### EN
+*Leitmotif* aims to characterize the European scene. It is not a periodical, but appears whenever time and circumstances allow.
+As the author's native tongue is German, pieces will be authored in German and translated to English.
 
-Leserbriefe sind an [letters@leitmotifzine.com](mailto:mgh@leitmotifzine.com) zu richten.
+Please email letters to the editor to [letters@leitmotifzine.com](mailto:letters@leitmotifzine.com). 
+
+### DE
+*Leitmotif* ist bestrebt, die europäische Szene zu charakterisieren. Leitmotif ist dabei kein Periodikum, sondern erscheint dann, wenn Zeit und Umstände es erlauben. Da die Muttersprache des Autors Deutsch ist, werden Beiträge auf Deutsch verfasst und ins Englische übersetzt.
+
+Leserbriefe sind an [letters@leitmotifzine.com](mailto:letters@leitmotifzine.com) zu richten.
+
+---
+
+### Links
+[Instagram](http://instagram.com/leitmotif.zine)
+
+### Imprint
+*Michael Hanser,
+Petersburger Str. 34,
+10249 Berlin*
