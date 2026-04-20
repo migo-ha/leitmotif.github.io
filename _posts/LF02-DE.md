@@ -53,7 +53,7 @@ _Between Bodies beim Farewell Youth Fest. Scheune Dresden, 21. Juni 2025. Foto v
 
 **LF: Wie siehst du das Gleichnis, dass ein guter Song nur "empfangen” werden kann und man aktiv als Songwriter:in nicht viel beeinflussen kann?**
 
-*CS:* Meine romantisierte Haltung zu kreativer Arbeit habe ich abgelegt. Das habe ich Adrian zu verdanken, einem Ex-*Giver*-Mitglied, der hauptberuflich Filmkomponist ist. Er meinte, dass man sich eben hinsetzen muss, damit etwas rauskommt. Und er hat vollkommen recht. Man muss sich dafür einfach Räume schaffen. Das Schwierige ist, die vielen schlechten Songs abzuwarten, die man zwangsweise schreiben muss, um eine gute Idee zu bekommentreffen. Man muss bereit sein, für die Tonne zu schreiben.
+*CS:* Meine romantisierte Haltung zu kreativer Arbeit habe ich abgelegt. Das habe ich Adrian zu verdanken, einem Ex-*Giver*-Mitglied, der hauptberuflich Filmkomponist ist. Er meinte, dass man sich eben hinsetzen muss, damit etwas rauskommt. Und er hat vollkommen recht. Man muss sich dafür einfach Räume schaffen. Das Schwierige ist, die vielen schlechten Songs abzuwarten, die man zwangsweise schreiben muss, um eine gute Idee zu finden. Man muss bereit sein, für die Tonne zu schreiben.
 
 Da mir Texte auch so wichtig sind, schreibe ich auch laufend. Ich habe inzwischen ein Archiv in einem Telegram-Kanal mit mir selbst und diversen Word-Dokumenten, in denen ich alle Ideen sammle. Ich lese Bücher auch immer mit Textmarker, um spannende Passagen zu sammeln. Ich muss aber ehrlich sagen, dass die besten Textzeilen meistens nicht so entstehen, sondern eher spontan durch Einfälle beim Spielen des Songs. Das Archiv hilft aber, Schreibblockaden zu durchbrechen.
 
@@ -69,7 +69,7 @@ Bei *Giver* bin ich oft etwas verkopft an die Sache rangegangen, weil ich eine s
 
 **LF: Wie siehst du die Entwicklung, dass durch soziale Medien und Videostreaming die Bedeutung von visueller Identität zunimmt und jene von musikalischer Identität vielleicht sogar abnimmt?**
 
-*CS:* Das Visuelle fand ich früher total überbewertet, habe aber mittlerweile großen Respekt, wenn Künstler:innen es schaffen, iIhre Ästhetik um eine visuelle Komponente stimmig zu erweitern. Insbesondere das Cover spielt für mich eine zentrale Rolle. Für die neue Platte werden wir zwar neue Videos drehen, aber Lust darauf hat niemand *[lacht]*. Auf den sozialen Medien steht dann ja eher die Persönlichkeit im Vordergrund, auch wenn das im Punk und Hardcore vielleicht nicht ganz so ausprägt ist. Das finde ich persönlich eher nervig und ich habe ein zwiespältiges Verhältnis dazu. Ich persönlich finde Bands, die eine wirkliche Gruppe an Charakteren darstellen, immer noch cooler als die meisten hochstilisierten Einzelkünstler:innen, die es hinter den Kulissen sowieso nicht gibt.
+*CS:* Das Visuelle fand ich früher total überbewertet, habe aber mittlerweile großen Respekt, wenn Künstler:innen es schaffen, ihre Ästhetik um eine visuelle Komponente stimmig zu erweitern. Insbesondere das Cover spielt für mich eine zentrale Rolle. Für die neue Platte werden wir zwar neue Videos drehen, aber Lust darauf hat niemand *[lacht]*. Auf den sozialen Medien steht dann ja eher die Persönlichkeit im Vordergrund, auch wenn das im Punk und Hardcore vielleicht nicht ganz so ausprägt ist. Das finde ich persönlich eher nervig und ich habe ein zwiespältiges Verhältnis dazu. Ich persönlich finde Bands, die eine wirkliche Gruppe an Charakteren darstellen, immer noch cooler als die meisten hochstilisierten Einzelkünstler:innen, die es hinter den Kulissen sowieso nicht gibt.
 
 ### IV.
 **LF: Lass uns zum Abschluss auf die europäische Szene blicken. Wie erklärst du dir, dass die europäische Punk- und Hardcore-Szene eher für ihre Infrastruktur und DIY-Netzwerke bekannt ist als für ihre künstlerischen Verdienste?**
@@ -80,22 +80,22 @@ Wir sind auch oft in der Rolle, dass die Impulsgeber aus einem anderen Sprachrau
 
 Für europäische Bands ist es auch weiterhin schwierig in den USA zu touren, aufgrund der Visabestimmungen und der damit verbundenen Kosten. Das ist umgekehrt deutlich einfacher und führt dazu, dass weniger europäische Bands in die USA reisen und, dass sehr viele amerikanische Bands Europa als gut erschlossenen Markt nutzen. Wenn kaum europäische Bands diese Erfahrung machen, bildet sich eben auch keine Infrastruktur.
 
-Ich denke auch, dass es in der Verantwortung der Bookingagenturen liegt, hart arbeitende europäische Bands mehr wertzuschätzen und sie nicht “nur” als Opener spielen zu lassen, wenn die Band selbst mehrere hundert Leute zieht. Meistens ist es doch so, dass drei Ami-Bands kommen und - egal wie groß die sind - die deutsche Band als Opener spielt. Ein gutes Beispiel dafür sind *[Shoreline](https://purenoise.bandcamp.com/album/is-this-the-low-point-or-the-moment-after)* aus Münster, die eine wirklich großartige europäische Punkband sind und gerade eine Tour mit *[Arm’s Length](https://purenoise.bandcamp.com/album/theres-a-whole-world-out-there)* gespielt haben. Es gibt da eine Schiefstellung in der Wahrnehmung und Wertschätzung, wenn gedacht wird: “die Band kommt aus Amerika, die muss mehr Wert sein”.
+Ich denke auch, dass es in der Verantwortung der Bookingagenturen liegt, hart arbeitende europäische Bands mehr wertzuschätzen und sie nicht “nur” als Opener spielen zu lassen, wenn die Band selbst mehrere hundert Leute zieht. Meistens ist es doch so, dass drei Ami-Bands kommen und --- egal wie groß die sind --- die deutsche Band als Opener spielt. Ein gutes Beispiel dafür sind *[Shoreline](https://purenoise.bandcamp.com/album/is-this-the-low-point-or-the-moment-after)* aus Münster, die eine wirklich großartige europäische Punkband sind und gerade eine Tour mit *[Arm’s Length](https://purenoise.bandcamp.com/album/theres-a-whole-world-out-there)* gespielt haben. Es gibt da eine Schiefstellung in der Wahrnehmung und Wertschätzung, wenn gedacht wird: “die Band kommt aus Amerika, die muss mehr Wert sein”.
 
 ![Giver live im K19 2024](/assets/images/LF02/g_ber_sigel.jpg "Christopher Schmidt mit Giver")
 _Giver live. K19 Berlin, 26. Oktober 2024. Foto von Sebastian Igel._
 
-**LF: Man könnte auch die Netzwerke und Infrastruktur , die ja da sind, aktiv dafür nutzen, europäische Bands, die es aufgrund ihrer künstlerischen Leistung und Arbeit verdienen, entsprechend zu platzieren - auch als Vorbildwirkung für kommende Generationen, um zu zeigen: bleibt dran, dann geht das.**
+**LF: Man könnte auch die Netzwerke und Infrastruktur , die ja da sind, aktiv dafür nutzen, europäische Bands, die es aufgrund ihrer künstlerischen Leistung und Arbeit verdienen, entsprechend zu platzieren --- auch als Vorbildwirkung für kommende Generationen, um zu zeigen: bleibt dran, dann geht das.**
 
 *CS:* Es braucht eben immer beides: gute Musik reicht nicht, du musst auch ein ehrliches Interesse an Menschen haben. An dieser Stelle Shoutout an ein Positivbeispiel: *[Echo Chamber](https://dbnorecords.bandcamp.com/album/dbno-05-echo-chamber-demo)*, die über 15 Jahre in sehr vielen Bands gespielt haben, selbst Shows veranstaltet haben, Beziehungen gepflegt haben, gute Songs schreiben und eine krasse Live-Band sind. Die konnten nach ein paar Jahren dann auch einige coole US-Touren spielen.   
 
 **LF: Was wünschst du dir für die europäische Szene?**
 
-*CS:* Ich glaube, mehr Mut, künstlerisch mehr zu investieren; also, mehr Leute, die sich trauen, viel Arbeit in wirklich gute Songs zu stecken – auch, wenn vielleicht nichts dabei rumkommt.
+*CS:* Ich glaube, mehr Mut, künstlerisch mehr zu investieren; also, mehr Leute, die sich trauen, viel Arbeit in wirklich gute Songs zu stecken –-- auch, wenn vielleicht nichts dabei rumkommt.
 
 Daneben wünsche ich mir mehr Interesse aus anderen Ländern. Wir haben letztes Jahr mit einigen US-Bands gespielt und da hatte niemand im Kopf, Kontakt zu Labels oder Bookern herzustellen oder eine Band für mehr als zwei Deutschland-Shows mitzunehmen. Ein guter Freund, der früher bei *[Punch](https://punchcrew.bandcamp.com/album/they-dont-have-to-believe)* gespielt hat, hat sich darüber immer lustig gemacht, dass die deutschen Bands es zwar oft versuchen, in den USA zu spielen, es aber selten schaffen.
 
-Ich glaube, es bräuchte mehr Offenheit, nicht nur Europa, sondern auch anderen Ländern gegenüber. Die haben es doch noch viel schwerer. Eine globale Szene, die aneinander interessiert ist – das sollte doch unser Anspruch sein.
+Ich glaube, es bräuchte mehr Offenheit, nicht nur Europa, sondern auch anderen Ländern gegenüber. Die haben es doch noch viel schwerer. Eine globale Szene, die aneinander interessiert ist –-- das sollte doch unser Anspruch sein.
 
 ### Coda
 *[Between Bodies --- Water As A Metaphor/Waves](https://www.youtube.com/watch?v=gHmEqUl5u-U)*
