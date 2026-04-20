@@ -82,8 +82,8 @@ Für europäische Bands ist es auch weiterhin schwierig in den USA zu touren, au
 
 Ich denke auch, dass es in der Verantwortung der Bookingagenturen liegt, hart arbeitende europäische Bands mehr wertzuschätzen und sie nicht “nur” als Opener spielen zu lassen, wenn die Band selbst mehrere hundert Leute zieht. Meistens ist es doch so, dass drei Ami-Bands kommen und - egal wie groß die sind - die deutsche Band als Opener spielt. Ein gutes Beispiel dafür sind *[Shoreline](https://purenoise.bandcamp.com/album/is-this-the-low-point-or-the-moment-after)* aus Münster, die eine wirklich großartige europäische Punkband sind und gerade eine Tour mit *[Arm’s Length](https://purenoise.bandcamp.com/album/theres-a-whole-world-out-there)* gespielt haben. Es gibt da eine Schiefstellung in der Wahrnehmung und Wertschätzung, wenn gedacht wird: “die Band kommt aus Amerika, die muss mehr Wert sein”.
 
-![Between Bodes in Köln](/assets/images/LF02/bb_26_sigel.jpg "Christopher Schmidt mit Between Bodes")
-_Between Bodies in Köln. Januar 2026. Foto von Sebastian Igel._
+![Giver live im K19 2024](/assets/images/LF02/g_ber_sigel.jpg "Christopher Schmidt mit Giver")
+_Giver live. K19 Berlin, 26. Oktober 2024. Foto von Sebastian Igel._
 
 **LF: Man könnte auch die Netzwerke und Infrastruktur , die ja da sind, aktiv dafür nutzen, europäische Bands, die es aufgrund ihrer künstlerischen Leistung und Arbeit verdienen, entsprechend zu platzieren - auch als Vorbildwirkung für kommende Generationen, um zu zeigen: bleibt dran, dann geht das.**
 
