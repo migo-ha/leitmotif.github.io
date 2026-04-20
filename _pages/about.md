@@ -21,6 +21,5 @@ Leserbriefe sind an [letters@leitmotifzine.com](mailto:letters@leitmotifzine.com
 [Instagram](http://instagram.com/leitmotif.zine)
 
 ### Imprint
-*Michael Hanser,
-Petersburger Str. 34,
+*Michael Hanser
 10249 Berlin*
