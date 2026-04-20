@@ -91,11 +91,11 @@ _Giver live. K19 Berlin, 26. Oktober 2024. Foto von Sebastian Igel._
 
 **LF: Was wünschst du dir für die europäische Szene?**
 
-*CS:* Ich glaube, mehr Mut, künstlerisch mehr zu investieren; also, mehr Leute, die sich trauen, viel Arbeit in wirklich gute Songs zu stecken –-- auch, wenn vielleicht nichts dabei rumkommt.
+*CS:* Ich glaube, mehr Mut, künstlerisch mehr zu investieren; also, mehr Leute, die sich trauen, viel Arbeit in wirklich gute Songs zu stecken –- auch, wenn vielleicht nichts dabei rumkommt.
 
 Daneben wünsche ich mir mehr Interesse aus anderen Ländern. Wir haben letztes Jahr mit einigen US-Bands gespielt und da hatte niemand im Kopf, Kontakt zu Labels oder Bookern herzustellen oder eine Band für mehr als zwei Deutschland-Shows mitzunehmen. Ein guter Freund, der früher bei *[Punch](https://punchcrew.bandcamp.com/album/they-dont-have-to-believe)* gespielt hat, hat sich darüber immer lustig gemacht, dass die deutschen Bands es zwar oft versuchen, in den USA zu spielen, es aber selten schaffen.
 
-Ich glaube, es bräuchte mehr Offenheit, nicht nur Europa, sondern auch anderen Ländern gegenüber. Die haben es doch noch viel schwerer. Eine globale Szene, die aneinander interessiert ist –-- das sollte doch unser Anspruch sein.
+Ich glaube, es bräuchte mehr Offenheit, nicht nur Europa, sondern auch anderen Ländern gegenüber. Die haben es doch noch viel schwerer. Eine globale Szene, die aneinander interessiert ist –- das sollte doch unser Anspruch sein.
 
 ### Coda
 *[Between Bodies --- Water As A Metaphor/Waves](https://www.youtube.com/watch?v=gHmEqUl5u-U)*
