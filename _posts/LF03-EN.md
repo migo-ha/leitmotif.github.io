@@ -86,7 +86,7 @@ That is part of why I stopped bringing fully written songs to practice early on.
 ![Wrong Man live at Maximum Output Fest 2026](/assets/images/LF03/wm_cg_3.jpg "Cedric Goetgebuer with Wrong Man")
 _Cedric Goetgebuer and Thijs Goethals of Wrong Man. Maximum Output Fest, Dordrecht. May 9, 2026. Photo by Giulia Sebastiani._
 
-### VII.
+### VI.
 **LF: You've said the scene isn't exclusively a youth thing anymore, that it's become intergenerational. If something is being transmitted to a younger generation now, is it the same thing you were transmitting when you were in Rise and Fall?**
 
 *CG:* I honestly don't know what we were transmitting with Rise and Fall. You have a vision, you do the thing, and I didn't think about it that consciously at the time---hearing people talk about how they felt it still surprises me to this day. What I do notice, and it's maybe a bit pessimistic, is that we're in a unique period right now: at bigger shows in Belgium you'll see people from every era of hardcore over the last twenty, thirty years, all in the same room. People who'd disappeared have come back, which is great, but it also feels like a specific moment -- part of why the timing felt right for the Rise and Fall reunion. What happens after that moment, once that generation gets old, I genuinely wonder about. In the US it still feels different---a lot of young people, properly intergenerational. Here in Belgium, a thirty-one-year-old still reads as young at a show. So I do wonder whether it dies out once we do, or how it lives on. The cool part is that the artifacts remain. The records will be there, and even books are being written about it now---it's being documented, which matters. But where the thing itself lives on, I don't know.
